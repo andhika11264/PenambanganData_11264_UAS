@@ -4,6 +4,8 @@ import streamlit as st
 st.title("Prediksi Potabilitas Air")
 
 # Deskripsi Singkat
+st.markdown("Nama    : Andhika Eka Putra")
+st.markdown("NIM    : A11.2018.11264")
 st.markdown("Aplikasi ini digunakan untuk memprediksi apakah air layak untuk diminum berdasarkan parameter kualitas air.")
 
 # Input Parameter
